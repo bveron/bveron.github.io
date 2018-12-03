@@ -74,7 +74,6 @@ analytics:
 # Site Author
 author:
   name             : "Benjamin Véron"
-  avatar           :
   bio              : "I am an acoustic engineer with experiences in Digital Signal Processing and Numerical Methods for environmental, building and railway acoustics."
   location         : "Paris"
   employer         :
