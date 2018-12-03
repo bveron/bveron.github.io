@@ -11,21 +11,31 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Master of Science in Acoustical Engineering (with honours), Université Pierre and Marie Curie, Paris, 2014
+* Bachelor of Science in Applied Physics (with honours), Université Pierre and Marie Curie, Paris, 2012
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* January 2018 - Novembrer 2018: Acoustic & vibration engineer for railway & train stations projects
+  * SYSTRA
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Eric Augis
 
-* Fall 2015: Research Assistant
-  * Github University
+* May 2017 - July 2017: Acoustic engineer for building acoustics
+  * Peutz & Associates
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Stéphane Mercier
+  
+* September 2015 - November 2015: Acoustic engineer for building & environmental acoustics
+  * Acoustique Toutes Fréquences
+  * Duties included: Merging pull requests
+  * Supervisor: Emmanuel Philippe
+
+* September 2014 - December 2014: Acoustic engineer for environmental acoustics
+  * Acouplus
+  * Duties included: Merging pull requests
+  * Supervisor: Michel Rosen
+  
   
 Skills
 ======
