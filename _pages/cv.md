@@ -11,30 +11,35 @@ redirect_from:
 
 Education
 ======
-* Master of Science in Acoustical Engineering (with honours), Université Pierre and Marie Curie, Paris, 2014
-* Bachelor of Science in Applied Physics (with honours), Université Pierre and Marie Curie, Paris, 2012
+* Master of Science in Acoustical Engineering (with honours), Pierre and Marie Curie University, Paris, 2014
+	
+	* Internship (6 months):
+		* Laboratory: Earth Physics Institute, Paris
+		* Subject: Study of landslides-generated low-frequency seismic waves
+	
+	* Project:
+		* Laboratory: Jean Le Rond d'Alembert Institute, Saint-Cyr l'Ecole
+		* Subject: Experimental and numerical study of a 128-MEMS antenna
+	
+* Bachelor of Science in Applied Physics (with honours), ierre and Marie Curie University, Paris, 2012
 
 Work experience
 ======
 * 01/2018 - 11/2018: Acoustic & vibration engineer for railway & train stations projects
   * Company: SYSTRA
   * Duties included: Tagging issues
-	* Supervisor: Eric Augis
 
 * 05/2017 - 08/2017: Acoustic engineer for building acoustics
   * Company: Peutz & Associates
   * Duties included: Merging pull requests
-	* Supervisor: Stéphane Mercier
   
 * 09/2015 - 11/2016: Acoustic engineer for building & environmental acoustics
   * Company: Acoustique Toutes Fréquences
   * Duties included: Merging pull requests
-	* Supervisor: Emmanuel Philippe
 
 * 09/2014 - 12/2014: Acoustic engineer for environmental acoustics
   * Company: Acouplus
   * Duties included: Merging pull requests
-	* Supervisor: Michel Rosen
   
   
 Skills
