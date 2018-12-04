@@ -11,7 +11,9 @@ redirect_from:
 
 Education
 ======
-* Master of Science in Acoustical Engineering (with honours), Pierre and Marie Curie University, Paris, 2014
+* Master of Science in Acoustical Engineering (with honours)
+  * 2012-2014
+  * Pierre and Marie Curie University, Paris
 	
 	* Internship (6 months):
 		* Laboratory: Earth Physics Institute, Paris
@@ -21,8 +23,10 @@ Education
 		* Laboratory: Jean Le Rond d'Alembert Institute, Saint-Cyr l'Ecole
 		* Subject: Experimental and numerical study of a 128-MEMS antenna
 	
-* Bachelor of Science in Applied Physics (with honours), Pierre and Marie Curie University, Paris, 2012
-
+* Bachelor of Science in Applied Physics (with honours)
+  * 2009-2012
+  * Pierre and Marie Curie University, Paris
+  
 Work experience
 ======
 * Acoustic & vibration engineer for railway & train stations projects
