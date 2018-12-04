@@ -18,7 +18,7 @@ Education
 	* Internship (6 months):
 		* Laboratory: Earth Physics Institute, Paris
 		* Subject: Study of landslides-generated low-frequency seismic waves
-	
+		  * test
 	* Project:
 		* Laboratory: Jean Le Rond d'Alembert Institute, Saint-Cyr l'Ecole
 		* Subject: Experimental and numerical study of a 128-MEMS antenna
