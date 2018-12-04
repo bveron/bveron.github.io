@@ -21,23 +21,27 @@ Education
 		* Laboratory: Jean Le Rond d'Alembert Institute, Saint-Cyr l'Ecole
 		* Subject: Experimental and numerical study of a 128-MEMS antenna
 	
-* Bachelor of Science in Applied Physics (with honours), ierre and Marie Curie University, Paris, 2012
+* Bachelor of Science in Applied Physics (with honours), Pierre and Marie Curie University, Paris, 2012
 
 Work experience
 ======
-* 01/2018 - 11/2018: Acoustic & vibration engineer for railway & train stations projects
+* Acoustic & vibration engineer for railway & train stations projects
+  * 01/2018 - 11/2018
   * Company: SYSTRA
   * Duties included: Tagging issues
 
-* 05/2017 - 08/2017: Acoustic engineer for building acoustics
+* Acoustic engineer for building acoustics
+  * 05/2017 - 08/2017
   * Company: Peutz & Associates
   * Duties included: Merging pull requests
   
-* 09/2015 - 11/2016: Acoustic engineer for building & environmental acoustics
+* Acoustic engineer for building & environmental acoustics
+  * 09/2015 - 11/2016
   * Company: Acoustique Toutes Fréquences
   * Duties included: Merging pull requests
 
-* 09/2014 - 12/2014: Acoustic engineer for environmental acoustics
+* Acoustic engineer for environmental acoustics
+  * 09/2014 - 12/2014
   * Company: Acouplus
   * Duties included: Merging pull requests
   
