@@ -16,25 +16,25 @@ Education
 
 Work experience
 ======
-* January 2018 - Novembrer 2018: Acoustic & vibration engineer for railway & train stations projects
-  * SYSTRA
+* 01/2018 - 11/2018: Acoustic & vibration engineer for railway & train stations projects
+  * Company: SYSTRA
   * Duties included: Tagging issues
-  * Supervisor: Eric Augis
+	* Supervisor: Eric Augis
 
-* May 2017 - July 2017: Acoustic engineer for building acoustics
-  * Peutz & Associates
+* 05/2017 - 08/2017: Acoustic engineer for building acoustics
+  * Company: Peutz & Associates
   * Duties included: Merging pull requests
-  * Supervisor: Stéphane Mercier
+	* Supervisor: Stéphane Mercier
   
-* September 2015 - November 2015: Acoustic engineer for building & environmental acoustics
-  * Acoustique Toutes Fréquences
+* 09/2015 - 11/2016: Acoustic engineer for building & environmental acoustics
+  * Company: Acoustique Toutes Fréquences
   * Duties included: Merging pull requests
-  * Supervisor: Emmanuel Philippe
+	* Supervisor: Emmanuel Philippe
 
-* September 2014 - December 2014: Acoustic engineer for environmental acoustics
-  * Acouplus
+* 09/2014 - 12/2014: Acoustic engineer for environmental acoustics
+  * Company: Acouplus
   * Duties included: Merging pull requests
-  * Supervisor: Michel Rosen
+	* Supervisor: Michel Rosen
   
   
 Skills
