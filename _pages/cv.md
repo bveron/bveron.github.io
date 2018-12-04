@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * Master of Science in Acoustical Engineering (with honours)
-  * 2012-2014
-  * Pierre and Marie Curie University, Paris
+  2012-2014
+  Pierre and Marie Curie University, Paris
 	
 	* Internship (6 months):
 		* Laboratory: Earth Physics Institute, Paris
